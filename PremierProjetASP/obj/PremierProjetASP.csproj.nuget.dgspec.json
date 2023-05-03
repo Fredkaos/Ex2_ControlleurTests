@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fred\\OneDrive - Cégep de l'Outaouais\\Bureau\\Ex2_ControlleurTests\\PremierProjetASP\\PremierProjetASP.csproj": {}
+    "C:\\VisualStudio-Git\\Ex2_ControlleurTests\\PremierProjetASP\\PremierProjetASP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fred\\OneDrive - Cégep de l'Outaouais\\Bureau\\Ex2_ControlleurTests\\PremierProjetASP\\PremierProjetASP.csproj": {
+    "C:\\VisualStudio-Git\\Ex2_ControlleurTests\\PremierProjetASP\\PremierProjetASP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fred\\OneDrive - Cégep de l'Outaouais\\Bureau\\Ex2_ControlleurTests\\PremierProjetASP\\PremierProjetASP.csproj",
+        "projectUniqueName": "C:\\VisualStudio-Git\\Ex2_ControlleurTests\\PremierProjetASP\\PremierProjetASP.csproj",
         "projectName": "PremierProjetASP",
-        "projectPath": "C:\\Users\\Fred\\OneDrive - Cégep de l'Outaouais\\Bureau\\Ex2_ControlleurTests\\PremierProjetASP\\PremierProjetASP.csproj",
+        "projectPath": "C:\\VisualStudio-Git\\Ex2_ControlleurTests\\PremierProjetASP\\PremierProjetASP.csproj",
         "packagesPath": "C:\\Users\\Fred\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fred\\OneDrive - Cégep de l'Outaouais\\Bureau\\Ex2_ControlleurTests\\PremierProjetASP\\obj\\",
+        "outputPath": "C:\\VisualStudio-Git\\Ex2_ControlleurTests\\PremierProjetASP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

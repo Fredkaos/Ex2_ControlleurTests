@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ex2Tests
-build_property.ProjectDir = C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\Ex2Tests\
+build_property.ProjectDir = C:\VisualStudio-Git\Ex2_ControlleurTests\Ex2Tests\

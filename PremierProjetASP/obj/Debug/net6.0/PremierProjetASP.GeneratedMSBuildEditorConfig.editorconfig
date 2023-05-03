@@ -9,25 +9,25 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PremierProjetASP
 build_property.RootNamespace = PremierProjetASP
-build_property.ProjectDir = C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\
+build_property.ProjectDir = C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP
+build_property.MSBuildProjectDirectory = C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Fred/OneDrive - Cégep de l'Outaouais/Bureau/Ex2_ControlleurTests/PremierProjetASP/Views/Home/Numero3.cshtml]
+[C:/VisualStudio-Git/Ex2_ControlleurTests/PremierProjetASP/Views/Home/Numero3.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOdW1lcm8zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fred/OneDrive - Cégep de l'Outaouais/Bureau/Ex2_ControlleurTests/PremierProjetASP/Views/Shared/Erreur.cshtml]
+[C:/VisualStudio-Git/Ex2_ControlleurTests/PremierProjetASP/Views/Shared/Erreur.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycmV1ci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fred/OneDrive - Cégep de l'Outaouais/Bureau/Ex2_ControlleurTests/PremierProjetASP/Views/Welcome/Default.cshtml]
+[C:/VisualStudio-Git/Ex2_ControlleurTests/PremierProjetASP/Views/Welcome/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VsY29tZVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fred/OneDrive - Cégep de l'Outaouais/Bureau/Ex2_ControlleurTests/PremierProjetASP/Views/Welcome/Name.cshtml]
+[C:/VisualStudio-Git/Ex2_ControlleurTests/PremierProjetASP/Views/Welcome/Name.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VsY29tZVxOYW1lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

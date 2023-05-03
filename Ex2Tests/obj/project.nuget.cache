@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OGchLAbaGkuBBVeaXVcZZv4TX3kAplcHUC+C5twYL2w3zGrALRDRynfM58wiZS1T+wxBoZj6SakzuAOypuwBwA==",
+  "dgSpecHash": "5bshQs7A5pMiv40+lWkI8HEQqVnU36oszUeXJ960j4e1nQyav5PF/pYzRnB5U2U1GFaITsU+ANVxSkkaOGKmZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fred\\OneDrive - Cégep de l'Outaouais\\Bureau\\Ex2_ControlleurTests\\Ex2Tests\\Ex2Tests.csproj",
+  "projectFilePath": "C:\\VisualStudio-Git\\Ex2_ControlleurTests\\Ex2Tests\\Ex2Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fred\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Fred\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

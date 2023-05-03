@@ -149,3 +149,32 @@ C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\Premi
 C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.pdb
 C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.genruntimeconfig.cache
 C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\ref\PremierProjetASP.dll
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\appsettings.Development.json
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\appsettings.json
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.staticwebassets.runtime.json
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.exe
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.deps.json
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.runtimeconfig.json
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.dll
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.pdb
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.csproj.AssemblyReference.cache
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.AssemblyInfoInputs.cache
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.AssemblyInfo.cs
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.csproj.CoreCompileInputs.cache
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.MvcApplicationPartsAssemblyInfo.cache
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.RazorAssemblyInfo.cache
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.RazorAssemblyInfo.cs
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\staticwebassets\msbuild.PremierProjetASP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\staticwebassets\msbuild.build.PremierProjetASP.props
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PremierProjetASP.props
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PremierProjetASP.props
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\staticwebassets.pack.json
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\staticwebassets.build.json
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\staticwebassets.development.json
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\scopedcss\bundle\PremierProjetASP.styles.css
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.dll
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\refint\PremierProjetASP.dll
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.pdb
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.genruntimeconfig.cache
+C:\VisualStudio-Git\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\ref\PremierProjetASP.dll

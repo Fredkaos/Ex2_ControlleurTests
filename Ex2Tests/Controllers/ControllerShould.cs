@@ -20,7 +20,7 @@ namespace Ex2Tests.Controllers
             var result = homeController.Numero1();
 
             // Verifier le type du resultat
-            var textResult = Assert.IsType<string>(result);
+            Assert.IsType<string>(result);
         }
 
         [Fact] 
@@ -30,7 +30,7 @@ namespace Ex2Tests.Controllers
 
             var result = homeController.Numero2();
 
-            var textResult = Assert.IsType<ContentResult>(result);
+            Assert.IsType<ContentResult>(result);
         }
 
         [Fact]
@@ -40,7 +40,7 @@ namespace Ex2Tests.Controllers
 
             var result = homeController.Numero3();
 
-            var textResult = Assert.IsType<ViewResult>(result);
+            Assert.IsType<ViewResult>(result);
         }
 
         [Fact]
@@ -50,7 +50,7 @@ namespace Ex2Tests.Controllers
 
             var result = homeController.Numero4();
 
-            var textResult = Assert.IsAssignableFrom<FileResult>(result);
+            Assert.IsAssignableFrom<FileResult>(result);
         }
 
         [Fact]
@@ -60,7 +60,7 @@ namespace Ex2Tests.Controllers
 
             var result = homeController.Numero5();
 
-            var textResult = Assert.IsType<ContentResult>(result);
+            Assert.IsType<ContentResult>(result);
         }
 
         [Fact]
@@ -70,7 +70,7 @@ namespace Ex2Tests.Controllers
 
             var result = homeController.Numero6();
 
-            var textResult = Assert.IsType<string>(result);
+            Assert.IsType<string>(result);
         }
     }
 }
