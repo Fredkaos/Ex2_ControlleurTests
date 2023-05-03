@@ -120,3 +120,32 @@ D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\r
 D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.pdb
 D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.genruntimeconfig.cache
 D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\ref\PremierProjetASP.dll
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\appsettings.json
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.staticwebassets.runtime.json
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.exe
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.deps.json
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.runtimeconfig.json
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.dll
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.pdb
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.csproj.AssemblyReference.cache
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.AssemblyInfoInputs.cache
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.AssemblyInfo.cs
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.csproj.CoreCompileInputs.cache
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.RazorAssemblyInfo.cache
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.RazorAssemblyInfo.cs
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\staticwebassets\msbuild.PremierProjetASP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\staticwebassets\msbuild.build.PremierProjetASP.props
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PremierProjetASP.props
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PremierProjetASP.props
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\scopedcss\bundle\PremierProjetASP.styles.css
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.dll
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\refint\PremierProjetASP.dll
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.pdb
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.genruntimeconfig.cache
+C:\Users\Fred\OneDrive - Cégep de l'Outaouais\Bureau\Ex2_ControlleurTests\PremierProjetASP\obj\Debug\net6.0\ref\PremierProjetASP.dll

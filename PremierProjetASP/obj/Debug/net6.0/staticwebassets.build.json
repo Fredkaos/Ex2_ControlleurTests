@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "u5V8xSCFZLJp1gUkCObEkzG875hIokYIQlzEOyB5sMI=",
+  "Hash": "9IEFEEJEkDilpyDUfJd3gN9BkJgd6W4UIB9VpkSHA1c=",
   "Source": "PremierProjetASP",
   "BasePath": "_content/PremierProjetASP",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PremierProjetASP\\wwwroot",
       "Source": "PremierProjetASP",
-      "ContentRoot": "D:\\Session_3\\ASP.NET\\Projet\\RouteControlleur\\PremierProjetASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fred\\OneDrive - Cégep de l'Outaouais\\Bureau\\Ex2_ControlleurTests\\PremierProjetASP\\wwwroot\\",
       "BasePath": "_content/PremierProjetASP",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Session_3\\ASP.NET\\Projet\\RouteControlleur\\PremierProjetASP\\wwwroot\\pdf\\Chapitre1.pdf",
+      "Identity": "C:\\Users\\Fred\\OneDrive - Cégep de l'Outaouais\\Bureau\\Ex2_ControlleurTests\\PremierProjetASP\\wwwroot\\pdf\\Chapitre1.pdf",
       "SourceId": "PremierProjetASP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Session_3\\ASP.NET\\Projet\\RouteControlleur\\PremierProjetASP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Fred\\OneDrive - Cégep de l'Outaouais\\Bureau\\Ex2_ControlleurTests\\PremierProjetASP\\wwwroot\\",
       "BasePath": "_content/PremierProjetASP",
       "RelativePath": "pdf/Chapitre1.pdf",
       "AssetKind": "All",
