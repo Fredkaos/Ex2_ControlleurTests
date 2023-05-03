@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "u5V8xSCFZLJp1gUkCObEkzG875hIokYIQlzEOyB5sMI=",
+  "Source": "PremierProjetASP",
+  "BasePath": "_content/PremierProjetASP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PremierProjetASP\\wwwroot",
+      "Source": "PremierProjetASP",
+      "ContentRoot": "D:\\Session_3\\ASP.NET\\Projet\\RouteControlleur\\PremierProjetASP\\wwwroot\\",
+      "BasePath": "_content/PremierProjetASP",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Session_3\\ASP.NET\\Projet\\RouteControlleur\\PremierProjetASP\\wwwroot\\pdf\\Chapitre1.pdf",
+      "SourceId": "PremierProjetASP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Session_3\\ASP.NET\\Projet\\RouteControlleur\\PremierProjetASP\\wwwroot\\",
+      "BasePath": "_content/PremierProjetASP",
+      "RelativePath": "pdf/Chapitre1.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pdf\\Chapitre1.pdf"
+    }
+  ]
+}

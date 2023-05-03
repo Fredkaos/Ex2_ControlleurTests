@@ -1,0 +1,122 @@
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\bin\Debug\net6.0\appsettings.Development.json
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\bin\Debug\net6.0\appsettings.json
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.exe
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.deps.json
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.runtimeconfig.json
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.dll
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.pdb
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.csproj.AssemblyReference.cache
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.GeneratedMSBuildEditorConfig.editorconfig
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.AssemblyInfoInputs.cache
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.AssemblyInfo.cs
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.csproj.CoreCompileInputs.cache
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.MvcApplicationPartsAssemblyInfo.cache
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\staticwebassets.build.json
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\staticwebassets.development.json
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\scopedcss\bundle\PremierProjetASP.styles.css
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.dll
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\refint\PremierProjetASP.dll
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.pdb
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.genruntimeconfig.cache
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\ref\PremierProjetASP.dll
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.RazorAssemblyInfo.cache
+B:\Session 3\ASP.NET\PremierProjetASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.RazorAssemblyInfo.cs
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\bin\Debug\net6.0\appsettings.Development.json
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\bin\Debug\net6.0\appsettings.json
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.exe
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.deps.json
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.runtimeconfig.json
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.dll
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.pdb
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.csproj.AssemblyReference.cache
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.GeneratedMSBuildEditorConfig.editorconfig
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.AssemblyInfoInputs.cache
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.AssemblyInfo.cs
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.csproj.CoreCompileInputs.cache
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.MvcApplicationPartsAssemblyInfo.cache
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.RazorAssemblyInfo.cache
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.RazorAssemblyInfo.cs
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\staticwebassets.build.json
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\staticwebassets.development.json
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\scopedcss\bundle\PremierProjetASP.styles.css
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.dll
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\refint\PremierProjetASP.dll
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.pdb
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.genruntimeconfig.cache
+B:\Session 3\ASP.NET\Cours1ASP\PremierProjetASP\obj\Debug\net6.0\ref\PremierProjetASP.dll
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\appsettings.Development.json
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\appsettings.json
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.exe
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.deps.json
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.runtimeconfig.json
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.dll
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.pdb
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.csproj.AssemblyReference.cache
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.GeneratedMSBuildEditorConfig.editorconfig
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.AssemblyInfoInputs.cache
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.AssemblyInfo.cs
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.csproj.CoreCompileInputs.cache
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.MvcApplicationPartsAssemblyInfo.cache
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.RazorAssemblyInfo.cache
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.RazorAssemblyInfo.cs
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\staticwebassets.build.json
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\staticwebassets.development.json
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\scopedcss\bundle\PremierProjetASP.styles.css
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.dll
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\refint\PremierProjetASP.dll
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.pdb
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.genruntimeconfig.cache
+B:\Session_3\ASP.NET\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\ref\PremierProjetASP.dll
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\appsettings.Development.json
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\appsettings.json
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.exe
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.deps.json
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.runtimeconfig.json
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.dll
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.pdb
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.csproj.AssemblyReference.cache
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.GeneratedMSBuildEditorConfig.editorconfig
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.AssemblyInfoInputs.cache
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.AssemblyInfo.cs
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.csproj.CoreCompileInputs.cache
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.MvcApplicationPartsAssemblyInfo.cache
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.RazorAssemblyInfo.cache
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.RazorAssemblyInfo.cs
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\staticwebassets.build.json
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\staticwebassets.development.json
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\scopedcss\bundle\PremierProjetASP.styles.css
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.dll
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\refint\PremierProjetASP.dll
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.pdb
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.genruntimeconfig.cache
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\ref\PremierProjetASP.dll
+B:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.staticwebassets.runtime.json
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\appsettings.Development.json
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\appsettings.json
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.staticwebassets.runtime.json
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.exe
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.deps.json
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.runtimeconfig.json
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.dll
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\bin\Debug\net6.0\PremierProjetASP.pdb
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.csproj.AssemblyReference.cache
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.AssemblyInfoInputs.cache
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.AssemblyInfo.cs
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.csproj.CoreCompileInputs.cache
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.MvcApplicationPartsAssemblyInfo.cache
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.RazorAssemblyInfo.cache
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.RazorAssemblyInfo.cs
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\staticwebassets\msbuild.PremierProjetASP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\staticwebassets\msbuild.build.PremierProjetASP.props
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PremierProjetASP.props
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PremierProjetASP.props
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\staticwebassets.build.json
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\staticwebassets.development.json
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\scopedcss\bundle\PremierProjetASP.styles.css
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.dll
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\refint\PremierProjetASP.dll
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.pdb
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\PremierProjetASP.genruntimeconfig.cache
+D:\Session_3\ASP.NET\Projet\RouteControlleur\PremierProjetASP\obj\Debug\net6.0\ref\PremierProjetASP.dll

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Session_3\\ASP.NET\\Projet\\RouteControlleur\\PremierProjetASP\\wwwroot\\pdf\\Chapitre1.pdf",
+      "PackagePath": "staticwebassets\\pdf\\Chapitre1.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PremierProjetASP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PremierProjetASP.props",
+      "PackagePath": "build\\PremierProjetASP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PremierProjetASP.props",
+      "PackagePath": "buildMultiTargeting\\PremierProjetASP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PremierProjetASP.props",
+      "PackagePath": "buildTransitive\\PremierProjetASP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
